@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2021-03-02T11:10:58.811507600Z</date>
+  <millis>1614683458811</millis>
+  <nanos>507600</nanos>
+  <sequence>1</sequence>
+  <logger>class com.pochikovskaya.ImaginativeLiterature.Imaginative_Literature</logger>
+  <level>INFO</level>
+  <class>com.pochikovskaya.ImaginativeLiterature.Imaginative_Literature</class>
+  <method>&lt;init&gt;</method>
+  <thread>1</thread>
+  <message>Создан объект класса Imaginative Literature</message>
+</record>
+</log>

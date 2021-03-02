@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2021-03-02T11:10:58.703568400Z</date>
+  <millis>1614683458703</millis>
+  <nanos>568400</nanos>
+  <sequence>0</sequence>
+  <logger>class com.pochikovskaya.EducationalLiterature.Educational_Literature</logger>
+  <level>INFO</level>
+  <class>com.pochikovskaya.EducationalLiterature.Educational_Literature</class>
+  <method>&lt;init&gt;</method>
+  <thread>1</thread>
+  <message>Создан объект класса Educational Literature</message>
+</record>
+<record>
+  <date>2021-03-02T11:10:58.818503400Z</date>
+  <millis>1614683458818</millis>
+  <nanos>503400</nanos>
+  <sequence>2</sequence>
+  <logger>class com.pochikovskaya.EducationalLiterature.Educational_Literature</logger>
+  <level>INFO</level>
+  <class>com.pochikovskaya.EducationalLiterature.Educational_Literature</class>
+  <method>&lt;init&gt;</method>
+  <thread>1</thread>
+  <message>Создан объект класса Educational Literature</message>
+</record>
+</log>
